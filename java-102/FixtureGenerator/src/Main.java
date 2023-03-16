@@ -13,7 +13,8 @@ public class Main {
             teams.add(new Team("BAY"));
 
         }
-
+        LinkedList linkedList = new LinkedList();
+        linkedList.fir
         for(int i = 0; i < teamCount; i++) {
             System.out.println("Takım ismini giriniz: ");
             String teamName = scanner.next();
