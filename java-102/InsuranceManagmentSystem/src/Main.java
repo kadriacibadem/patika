@@ -9,7 +9,7 @@ public class Main {
 
         Management management = new Management();
         management.addUser(email, password);
-
+        
 
         String loginEmail = scanner.nextLine();
         String loginPassword = scanner.nextLine();
